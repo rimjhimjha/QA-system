@@ -1,0 +1,18 @@
+2025-05-16 11:57:54,420:INFO:Loading data from UploadedFile(file_id='871d69c2-8570-4def-ad15-242a4e3713cf', name='MLDOC.txt', type='text/plain', size=21968, _file_urls=file_id: "871d69c2-8570-4def-ad15-242a4e3713cf"
+upload_url: "/_stcore/upload_file/dd9af326-c39a-45bd-85ec-0a9baf338b6b/871d69c2-8570-4def-ad15-242a4e3713cf"
+delete_url: "/_stcore/upload_file/dd9af326-c39a-45bd-85ec-0a9baf338b6b/871d69c2-8570-4def-ad15-242a4e3713cf"
+)
+2025-05-16 11:57:55,134:INFO:Data loaded successfully from UploadedFile(file_id='871d69c2-8570-4def-ad15-242a4e3713cf', name='MLDOC.txt', type='text/plain', size=21968, _file_urls=file_id: "871d69c2-8570-4def-ad15-242a4e3713cf"
+upload_url: "/_stcore/upload_file/dd9af326-c39a-45bd-85ec-0a9baf338b6b/871d69c2-8570-4def-ad15-242a4e3713cf"
+delete_url: "/_stcore/upload_file/dd9af326-c39a-45bd-85ec-0a9baf338b6b/871d69c2-8570-4def-ad15-242a4e3713cf"
+)
+2025-05-16 11:57:57,163:INFO:Initializing Gemini embedding model...
+2025-05-16 11:58:05,835:INFO:Loading data from UploadedFile(file_id='871d69c2-8570-4def-ad15-242a4e3713cf', name='MLDOC.txt', type='text/plain', size=21968, _file_urls=file_id: "871d69c2-8570-4def-ad15-242a4e3713cf"
+upload_url: "/_stcore/upload_file/dd9af326-c39a-45bd-85ec-0a9baf338b6b/871d69c2-8570-4def-ad15-242a4e3713cf"
+delete_url: "/_stcore/upload_file/dd9af326-c39a-45bd-85ec-0a9baf338b6b/871d69c2-8570-4def-ad15-242a4e3713cf"
+)
+2025-05-16 11:58:05,841:INFO:Data loaded successfully from UploadedFile(file_id='871d69c2-8570-4def-ad15-242a4e3713cf', name='MLDOC.txt', type='text/plain', size=21968, _file_urls=file_id: "871d69c2-8570-4def-ad15-242a4e3713cf"
+upload_url: "/_stcore/upload_file/dd9af326-c39a-45bd-85ec-0a9baf338b6b/871d69c2-8570-4def-ad15-242a4e3713cf"
+delete_url: "/_stcore/upload_file/dd9af326-c39a-45bd-85ec-0a9baf338b6b/871d69c2-8570-4def-ad15-242a4e3713cf"
+)
+2025-05-16 11:58:06,461:INFO:Initializing Gemini embedding model...

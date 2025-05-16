@@ -1,0 +1,8 @@
+2025-05-16 11:50:30,507:INFO:Loading data from UploadedFile(file_id='f82ba5ce-c783-40ea-bb2e-72e2a5ab36ed', name='MLDOC.txt', type='text/plain', size=21968, _file_urls=file_id: "f82ba5ce-c783-40ea-bb2e-72e2a5ab36ed"
+upload_url: "/_stcore/upload_file/d2d081d6-05bd-489b-8147-f4e512a33730/f82ba5ce-c783-40ea-bb2e-72e2a5ab36ed"
+delete_url: "/_stcore/upload_file/d2d081d6-05bd-489b-8147-f4e512a33730/f82ba5ce-c783-40ea-bb2e-72e2a5ab36ed"
+)
+2025-05-16 11:50:31,369:INFO:Data loaded successfully from UploadedFile(file_id='f82ba5ce-c783-40ea-bb2e-72e2a5ab36ed', name='MLDOC.txt', type='text/plain', size=21968, _file_urls=file_id: "f82ba5ce-c783-40ea-bb2e-72e2a5ab36ed"
+upload_url: "/_stcore/upload_file/d2d081d6-05bd-489b-8147-f4e512a33730/f82ba5ce-c783-40ea-bb2e-72e2a5ab36ed"
+delete_url: "/_stcore/upload_file/d2d081d6-05bd-489b-8147-f4e512a33730/f82ba5ce-c783-40ea-bb2e-72e2a5ab36ed"
+)

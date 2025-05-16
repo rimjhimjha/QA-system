@@ -1,0 +1,9 @@
+2025-05-16 12:02:18,060:INFO:Loading data from UploadedFile(file_id='a61ea56a-6fff-4ca9-811e-37a692e4517f', name='MLDOC.txt', type='text/plain', size=21968, _file_urls=file_id: "a61ea56a-6fff-4ca9-811e-37a692e4517f"
+upload_url: "/_stcore/upload_file/8e7baa22-cb00-4880-8540-3a920997b673/a61ea56a-6fff-4ca9-811e-37a692e4517f"
+delete_url: "/_stcore/upload_file/8e7baa22-cb00-4880-8540-3a920997b673/a61ea56a-6fff-4ca9-811e-37a692e4517f"
+)
+2025-05-16 12:02:18,808:INFO:Data loaded successfully from UploadedFile(file_id='a61ea56a-6fff-4ca9-811e-37a692e4517f', name='MLDOC.txt', type='text/plain', size=21968, _file_urls=file_id: "a61ea56a-6fff-4ca9-811e-37a692e4517f"
+upload_url: "/_stcore/upload_file/8e7baa22-cb00-4880-8540-3a920997b673/a61ea56a-6fff-4ca9-811e-37a692e4517f"
+delete_url: "/_stcore/upload_file/8e7baa22-cb00-4880-8540-3a920997b673/a61ea56a-6fff-4ca9-811e-37a692e4517f"
+)
+2025-05-16 12:02:19,563:INFO:Initializing Gemini embedding model...
